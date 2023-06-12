@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SGwo2HartOLGU0v/3xF2uXRAzMnvKYYngolzv+N00o+xPT6IN7CNGkJWexwqhMrgXf3RFj7xc0G8xALj7VLzSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olive\\OneDrive\\Ambiente de Trabalho\\CarGame\\CarGame\\CarGame\\CarGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olive\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
