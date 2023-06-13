@@ -1,7 +1,7 @@
 # TrabalhoPratico2TDVJ
 Repositório do Trabalho Pratico 2 - Técnicas De Desenvolvimento de Videojogos - 18816(José Oliveira) &amp; 25955(David Cruz)
-Conceito:
-O jogo consiste no jogador (o carro) precorrer o mapa e coletar combustível. Quanto mais combustível recolher, mais pontuação ganha.
+
+Conceito: O jogo consiste no jogador (o carro) precorrer o mapa e coletar combustível. Quanto mais combustível recolher, mais pontuação ganha.
 
 - Program.cs
 Vai ser com este código que premitirá o programa correr o jogo.
