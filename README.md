@@ -9,13 +9,14 @@ Vai ser com este código que premitirá o programa correr o jogo.
 - Game1.cs
 Uma class publica, que irá, primeiramente, defenir um valor random, introduzir os valores da dimensão da tela, e criar estados de jogo.
 
+Pasta Entity
 - Entity
 Entity.cs: Esta Classe serve para controlar todas as entidades do jogo, quanto à sua textura, posição, rotação ou escala. Controla a posição do combustível que aparece no mapa, e desaparece com contacto com o jogador.
 
 - Player.cs: Subclasse da Classe Entity e server para controlar o jogador, quanto à sua textura, posição, rotação ou escala. Quando este entra em contacto com uma unidade de combustível, a pontuação aumenta, o combustível desaparece e aparece um novo em outra posição.
 
-- ScoreManager
-Score.cs: Classe que deteta e retem o valor da pontuação do jogador.
+Pasta Score Manager
+- Score.cs: Classe que deteta e retem o valor da pontuação do jogador.
 
 - ScoreManager: Classe que deteta a pontuação obtida no Score.cs e organiza numa lista em ficheiro .xml com os melhores resultados até ao momento.
 
